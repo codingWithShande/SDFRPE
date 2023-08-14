@@ -4,8 +4,8 @@
 </p>
 <p>
   <img alt="GNOME" src="https://img.shields.io/badge/GNOME-4A86CF?style=flat&logo=GNOME&logoColor=white" >
-  <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=flat&logo=intellij-idea&logoColor=white" >
-  <img alt="Firefox" src="https://img.shields.io/badge/Firefox-FF7139?style=flat&logo=Firefox-Browser&logoColor=white" >　
+  <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=flat&logo=intellij-idea&logoColor=white">
+  <img alt="Firefox" src="https://img.shields.io/badge/Firefox-FF7139?style=flat&logo=Firefox-Browser&logoColor=white">　
   <a href="mailto:fernandez.shande@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Fernandez-D14836?style=flat&logo=gmail&logoColor=white"></a>
   <a href="https://twitter.com/SDFRPE"><img alt="Twitter" src="https://img.shields.io/badge/Fernandez-%231DA1F2.svg?style=flat&logo=Twitter&logoColor=white"></a>
 </p>
